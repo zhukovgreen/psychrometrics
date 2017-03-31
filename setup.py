@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='myzcat',
+    name='psychrometrics',
     version='0.1beta',
     url='https://github.com/ZhukovGreen/psychrometrics',
     license='GNU',
